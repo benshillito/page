@@ -24,6 +24,10 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Test Project", "index.html", [
+    [ "First", "md_first.html", null ],
+    [ "Second", "md_second.html", null ],
+    [ "page", "~/../../page", null ],
+    [ "secondpage", "~/../../second", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", "namespaces" ],
     [ "Classes", "annotated.html", "annotated" ],
